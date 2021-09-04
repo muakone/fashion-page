@@ -62,12 +62,13 @@ header {
     max-width: 40em;
     line-height: 2.5rem;
     word-spacing: .2rem;
+    font-family: 'Playfair Display', serif;
 }
 .first-text > h3::first-letter {
     font-size: 55px;
 }
 .second-text {
-    max-width: 29em;
+    max-width: 32em;
     margin-top: 1rem;
 }
 .gallery-section {
